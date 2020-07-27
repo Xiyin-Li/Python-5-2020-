@@ -1,7 +1,6 @@
 #-*- coding = utf-8 -*-
 #@Time: 27-Jul-20 6:10 PM
-#@Author: 李惜音
-#@File:  demo1.py
+#@File:  p9.py
 #@Software: PyCharm
 
 products = [["iphone",6888], ["MacPro",14800],["小米6", 2499], ["Coffee",31],["Book",60],["Nike",666]]
